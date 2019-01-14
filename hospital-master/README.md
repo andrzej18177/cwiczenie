@@ -1,4 +1,3 @@
-# hospital
-Hospital Management System
+# Szpital
 
-Stack: Java, SpringBoot, Bootstrap
+System zarządzania szpitalem
